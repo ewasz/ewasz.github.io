@@ -136,4 +136,5 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 32)
   jekyll (= 2.4.0)
+  jekyll-sitemap (= 0.6.3)
   json
