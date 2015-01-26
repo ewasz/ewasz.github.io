@@ -2,12 +2,12 @@
 
 title:            thisismymat
 locale:           en_US
-url:
-baseurl: "/site-ewa"
+url: https://xifip.github.io/site-ewa
+
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   categories/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
