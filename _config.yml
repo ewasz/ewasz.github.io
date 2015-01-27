@@ -2,15 +2,16 @@
 
 title:            thisismymat
 locale:           en_US
-url:
-baseurl: "/site-ewa"
+url: /site-ewa
+baseurl: /site-ewa
 
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+#highlighter: pygments
+highlighter: null
 sass:
   sass_dir: _sass
   style: compressed
