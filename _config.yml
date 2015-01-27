@@ -3,7 +3,7 @@
 title:            thisismymat
 locale:           en_US
 url:
-baseurl:
+# baseurl: "/site-ewa"
 
 
 # Jekyll configuration
