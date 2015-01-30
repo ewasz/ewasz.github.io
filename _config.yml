@@ -2,8 +2,8 @@
 
 title:            thisismymat
 locale:           en_US
-url: /site-ewa
-baseurl: /site-ewa
+url:
+baseurl:
 
 
 # Jekyll configuration
